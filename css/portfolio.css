@@ -1,0 +1,88 @@
+html 	{
+	background-color: #BF8ED8;
+	background-image: url(../img/pinkyellow.jpg);
+	text-align: center;
+	width: 1300px;
+	border: solid; 
+	border-color: #FEFEFE;
+	padding-right: 20px;
+	padding-left: 15px;
+
+		}
+
+section {
+	background-image: url(../img/pinkyellow.jpg);
+	color: #F7F7F7;
+	border: solid;
+
+		}
+
+h3 + h4 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #FEFEFE;
+
+	}
+
+img {
+	width: 350px; 
+	height: 450px;
+	display: block;
+    margin: auto;
+    display: inline;
+    text-align: center;
+	margin: 25px;
+	padding: 10px;
+	clear: both;
+    		
+	 }
+
+
+p   {
+ 	font-family: Georgia;
+ 	margin: 50px;
+
+ 	}
+
+a 	{
+	font-family: Georgia, "Times New Roman", serif;
+	font-style: italic;
+	color: #E9891B;
+	font-size: 20px;
+
+	}
+
+a:hover {
+   	color: #FF4500;
+    text-decoration: underline;
+
+		}
+
+.purple	{
+		background-image: url(../img/pinkyellow.jpg);
+		border: solid;
+
+		}
+
+.imagebackground {
+		background-image: url(../img/pinkyellow.jpg);
+		background-repeat: repeat-x;
+		color: #FAF9F9;
+		font-family: Georgia, "Times New Roman", serif;
+		height: 400px;
+		width: auto;
+		margin-right: 10%;
+		margin-left: 10%;
+		position: relative;
+		border: solid;
+	 			}
+
+.albums {
+		background-color: #F28F1E;
+
+		}
+
+footer  {
+		color: #FEFEFE;
+
+}
+
