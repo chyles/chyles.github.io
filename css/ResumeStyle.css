@@ -1,5 +1,5 @@
 html   {
-		border: solid 30px #FB941F;
+		border: solid 25px #4400FE;
 		border-radius: 70px;
 		
 	   }
@@ -24,7 +24,7 @@ body	{
 h3 		{
 		color: #195EC6;
 		font-family: "Lucida Bright", Georgia, serif;
-		font-size: 30px;
+		font-size: 15px;
 		font-variant: normal;
 		font-weight: 500;
 		line-height: 26.4px;
@@ -37,7 +37,7 @@ h3 		{
 h4 		{
 		font-family: Georgia, "Times New Roman", serif;
 		font-style: oblique; 
-		font-size: 13px;
+		font-size: 11px;
     	line-height: 6px;
 	 	
 	 	}
@@ -56,13 +56,13 @@ img 	{
 p  		{
  	
  		font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
- 		font-size: 14px;
+ 		font-size: 11px;
 
 	    }
 	
 ul li 	{
 		font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
- 		font-size: 14px;
+ 		font-size: 11px;
 
 		}	
 	
@@ -129,14 +129,14 @@ footer 	{
 
 
 @media (min-width: 1020px) {
-	h1 		   { line-height: 2rem; font-size: 2.5rem; }
-    h2 		   { font-size: 2rem; line-height: 2.5rem; }
-    h3 		   { font-size: 2rem; line-height: 2.5rem; }
-    h4 		   { font-size: 1.5rem; line-height: 2rem; }
-    p 		   { font-size: 1.5rem; line-height: 2rem; }
-    header 	   { font-size: 2rem; text-align: center; line-height: 2.5rem; }
+	h1 		   { line-height: 1.5rem; font-size: 2rem; }
+    h2 		   { font-size: 1rem; line-height: 2.5rem; }
+    h3 		   { font-size: 1rem; line-height: 2.5rem; }
+    h4 		   { font-size: 1rem; line-height: 2rem; }
+    p 		   { font-size: 1rem; line-height: 2rem; }
+    header 	   { font-size: 1.5rem; text-align: center; line-height: 2rem; }
     img 	   { width: 40%; height: 40%; text-align: center; margin-left: 28%;  }
-    ul li 	   { font-size: 1.5rem; line-height: 2rem; }
+    ul li 	   { font-size: 1rem; line-height: 2rem; }
     footer 	   { font-size: 2rem;  line-height: 2.5rem; }
 	.left 	   {width: 90%;}
 	.right 	   {width: 90%;}
